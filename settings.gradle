@@ -1,0 +1,2 @@
+rootProject.name = "PSB.App"
+include ':app'
